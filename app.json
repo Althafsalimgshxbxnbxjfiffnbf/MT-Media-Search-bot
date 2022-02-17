@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/Althafsalimgshxbxnbxjfiffnbf/MT-Media-Search-bot/edit/master/app.json",
+    "repository": "https://github.com/Althafsalimgshxbxnbxjfiffnbf/MT-Media-Search-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
